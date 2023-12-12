@@ -7,4 +7,4 @@ Hspice pre-sim, po-sim were implemented successfully, the waveform of each corne
 Yeh, I know that layout is like a joke, it is tiring tho.
 
 
-I cannot upload the whole project cuz there are some confidential files provided by the semiconductor companies, but I'll upload the aforementioned design soon.
+I cannot upload the whole project cuz there are some confidential files provided by the semiconductor companies.
